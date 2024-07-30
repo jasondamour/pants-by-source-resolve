@@ -27,8 +27,8 @@ app_2 = "python/apps/app_2/lock.json"
 
 
 [python.resolves_to_interpreter_constraints]
-app_1 = ["==3.7.*"]
-app_2 = ["==3.8.*"]
+app_1 = ["==3.9.*"]
+app_2 = ["==3.10.*"]
 
 
 [python-infer]
